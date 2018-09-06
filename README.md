@@ -1,0 +1,15 @@
+# jobsheet5
+screnshoot
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.1.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.2.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.3.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.4.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.5.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.6.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.7.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.8.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.9.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.10.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.11.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.12.PNG)
+![alt text](https://github.com/Rismaads/jobsheet5/blob/master/5.13.PNG)
